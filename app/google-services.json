@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406405244406",
+    "firebase_url": "https://habitafoodtest.firebaseio.com",
+    "project_id": "habitafoodtest",
+    "storage_bucket": "habitafoodtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406405244406:android:b76fab8c25ec0c01d813d7",
+        "android_client_info": {
+          "package_name": "com.example.android.habitafoodtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406405244406-logfh9o46k20gmhjog9mlfo0qr1kjnet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXLE453kkHszxPT1pQlmq0OVkzCmmju6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406405244406-logfh9o46k20gmhjog9mlfo0qr1kjnet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
